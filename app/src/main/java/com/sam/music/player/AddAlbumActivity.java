@@ -21,7 +21,7 @@ import com.sam.music.player.utils.MediaUtils;
 
 import java.util.HashMap;
 
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
@@ -30,7 +30,7 @@ import butterknife.OnClick;
  */
 public class AddAlbumActivity extends BaseActivity {
 
-    @Bind(R.id.bg_album)
+    @BindView(R.id.bg_album)
     ImageView ivAlbum;
 
     private Album album = new Album();

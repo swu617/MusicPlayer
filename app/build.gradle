@@ -1,15 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    compileSdkVersion 27
+    buildToolsVersion "27.0.2"
 
     defaultConfig {
         applicationId "com.sam.music.player"
         versionCode 201606181
         versionName "1.4"
         minSdkVersion 14
-        targetSdkVersion 23
+        targetSdkVersion 27
     }
 
     buildTypes {
@@ -31,10 +31,11 @@ android {
 
 dependencies {
     compile 'net.zetetic:android-database-sqlcipher:3.4.0'
-    compile 'com.android.support:recyclerview-v7:23.1.0'
+    compile 'com.android.support:recyclerview-v7:27.0.2'
     compile 'com.google.android.gms:play-services-ads:8.4.0'
-    compile 'com.jakewharton:butterknife:7.0.1'
-    compile 'com.android.support:design:23.1.0'
-    compile 'com.android.support:appcompat-v7:23.1.0'
+    implementation 'com.jakewharton:butterknife:8.8.1'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+    compile 'com.android.support:design:27.0.2'
+    compile 'com.android.support:appcompat-v7:27.0.2'
     compile 'com.flurry.android:analytics:6.3.1'
 }

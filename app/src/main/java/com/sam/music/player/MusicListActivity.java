@@ -47,7 +47,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 
-import butterknife.Bind;
+import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
 
@@ -73,7 +73,7 @@ public class MusicListActivity extends BaseActivity implements MediaPlayer.OnCom
     private Handler adHandler = new Handler();
     private Runnable runnable;
 
-    @Bind(R.id.action)
+    @BindView(R.id.action)
     Button btnAction;
 
     @Override
