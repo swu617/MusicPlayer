@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Offline Music Player</string>
+
+    <string name="fetal">Janin Musik</string>
+    <string name="baby">Bayi Musik</string>
+    <string name="kids">Anak Musik</string>
+
+    <string name="loop_indicator">Putaran</string>
+
+
+    <!-- media -->
+    <string name="media_not_available">Media browsing tidak tersedia pada perangkat ini.</string>
+    <string name="choose_music">Pilih Musik</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">Menghapus</string>
+    <string name="delete_song_msg">Apakah Anda ingin menghapus musik ini dari daftar?</string>
+
+    <!-- Share -->
+    <string name="share_to">Bagi aplikasi ini untuk ...</string>
+    <string name="share_link">Sebuah musik aplikasi mengagumkan untuk keluarga saya menggunakan, merekomendasikan kepada Anda:<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 menit</item>
+        <item>30 menit</item>
+        <item>45 menit</item>
+        <item>1 jam</item>
+        <item>2 jam</item>
+        <item>3 jam</item>
+        <item>Selama-lamanya</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>bermain Semua</item>
+        <item>bermain Tunggal</item>
+    </string-array>
+    <string name="add_cover">Menambahkan foto untuk sampul : </string>
+    <string name="add_more">Tambah Lagi </string>
+    <string name="choose_photo">Pilih foto </string>
+    <string name="empty_list">daftar musik kosong , silahkan menambahkan musik Anda . </string>
+    <string name="input_name">Masukan nama : </string>
+    <string name="invalidate_photo">Harap menambahkan foto </string>
+    <string name="invalidate_text">Silahkan masukan nama </string>
+    <string name="album_edit">mengedit</string>
+    <string name="album_delete">Menghapus</string>
+    <string name="all_music">Semua musik</string>
+
+</resources>

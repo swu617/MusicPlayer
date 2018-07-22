@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Offline Music Player</string>
+
+    <string name="fetal">εμβρύου Μουσική</string>
+    <string name="baby">Baby Music</string>
+    <string name="kids">Παιδικά Μουσική</string>
+
+    <string name="loop_indicator">Βρόχος</string>
+
+
+    <!-- media -->
+    <string name="media_not_available">περιήγηση μέσα μαζικής ενημέρωσης δεν είναι διαθέσιμη σε αυτή τη συσκευή.</string>
+    <string name="choose_music">Επιλέξτε Μουσική</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">Διαγράφω</string>
+    <string name="delete_song_msg">Θέλετε να διαγράψετε αυτή τη μουσική από τη λίστα;</string>
+
+    <!-- Share -->
+    <string name="share_to">Μοιραστείτε αυτήν την εφαρμογή για να ...</string>
+    <string name="share_link">Ένα φοβερό μουσικής app για την οικογένειά είμαι με τη χρήση, συνιστούμε να σας:<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 minuto</item>
+        <item>30 minuto</item>
+        <item>45 minuto</item>
+        <item>1 hora</item>
+        <item>2 hora</item>
+        <item>3 hora</item>
+        <item>siempre</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>reproducir todo</item>
+        <item>Juega individual</item>
+    </string-array>
+    <string name="add_cover"> Προσθέστε μια φωτογραφία για την κάλυψη :Πρόσθεσε περισσότερα Προσθέστε μια φωτογραφία για την κάλυψη :</string>
+    <string name="add_more">Πρόσθεσε περισσότερα </string>
+    <string name="choose_photo">Επιλέξτε Φωτογραφία </string>
+    <string name="empty_list">Λίστα μουσική είναι άδειο , παρακαλώ προσθέστε τη μουσική σας .</string>
+    <string name="input_name">Εισάγετε ένα όνομα : </string>
+    <string name="invalidate_photo">Παρακαλείσθε να προσθέσετε μια φωτογραφία </string>
+    <string name="invalidate_text">Εισάγετε το όνομα </string>
+    <string name="album_edit">Επεξεργασία</string>
+    <string name="album_delete">Διαγράφω</string>
+    <string name="all_music">Όλη η μουσική </string>
+
+</resources>

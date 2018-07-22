@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Off-line Music Player</string>
+
+    <string name="fetal">Música fetal</string>
+    <string name="baby">Música para bebés</string>
+    <string name="kids">Musica infantil</string>
+
+    <string name="loop_indicator">laço</string>
+
+
+    <!-- media -->
+    <string name="media_not_available">navegação na mídia não está disponível neste dispositivo.</string>
+    <string name="choose_music">Escolha Música</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">Excluir</string>
+    <string name="delete_song_msg">Você deseja excluir esta música a partir de lista?</string>
+
+    <!-- Share -->
+    <string name="share_to">Compartilhe este aplicativo para ...</string>
+    <string name="share_link">Um aplicativo de música incrível para a família que estou usando, recomendo a você:<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 minuto</item>
+        <item>30 minuto</item>
+        <item>45 minuto</item>
+        <item>1 hora</item>
+        <item>2 hora</item>
+        <item>3 hora</item>
+        <item>Para sempre</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>Jogar todos</item>
+        <item>jogar Individual</item>
+    </string-array>
+    <string name="add_more">Adicione mais </string>
+    <string name="add_cover">Adicione uma foto de capa: </string>
+    <string name="choose_photo">Escolher Foto </string>
+    <string name="empty_list">lista de músicas está vazia , por favor, adicione a sua música. </string>
+    <string name="input_name">Insira um nome : </string>
+    <string name="invalidate_photo">Por favor, adicione uma foto </string>
+    <string name="invalidate_text">Por favor coloque o nome </string>
+    <string name="album_edit">Editar</string>
+    <string name="album_delete">Excluir</string>
+    <string name="all_music">Todas as músicas</string>
+
+</resources>

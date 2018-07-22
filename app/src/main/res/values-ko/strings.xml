@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">오프라인 음악 플레이어</string>
+
+    <string name="fetal">태아 음악</string>
+    <string name="baby">아기 음악</string>
+    <string name="kids">어린이 음악</string>
+
+    <string name="loop_indicator">고리</string>
+
+
+    <!-- media -->
+    <string name="media_not_available">미디어 검색이 장치에 사용할 수 없습니다.</string>
+    <string name="choose_music">음악을 선택</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">지우다</string>
+    <string name="delete_song_msg">당신은 목록에서 음악을 삭제 하시겠습니까?</string>
+
+    <!-- Share -->
+    <string name="share_to">이 앱을 공유 ...</string>
+    <string name="share_link">내가 사용하고 가족을위한 멋진 음악 앱, 당신에게 추천<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 분</item>
+        <item>30 분</item>
+        <item>45 분</item>
+        <item>1 시간</item>
+        <item>2 시간</item>
+        <item>3 시간</item>
+        <item>영원히</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>모두 재생</item>
+        <item>싱글 플레이</item>
+    </string-array>
+    <string name="add_cover">커버 사진을 추가 : </string>
+    <string name="add_more">추가 추가 </string>
+    <string name="choose_photo">사진 을 선택 </string>
+    <string name="empty_list">음악 목록이 비어있는 , 음악을 추가하시기 바랍니다 . </string>
+    <string name="input_name">입력 이름 : </string>
+    <string name="invalidate_photo">사진을 추가 하세요 </string>
+    <string name="invalidate_text">입력 에게 이름을 주세요 </string>
+    <string name="album_edit">편집하다</string>
+    <string name="album_delete">지우다</string>
+    <string name="all_music">모든 음악 </string>
+
+</resources>

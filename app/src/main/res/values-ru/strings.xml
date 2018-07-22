@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Офф-лайн Музыкальный плеер</string>
+
+    <string name="fetal">фетальный Музыка</string>
+    <string name="baby">Детские Музыка</string>
+    <string name="kids">Дети Музыка</string>
+
+    <string name="loop_indicator">петля</string>
+
+
+    <!-- media -->
+    <string name="media_not_available">просмотр медиа не доступна на этом устройстве.</string>
+    <string name="choose_music">Выберите пункт меню Music</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">Удалить</string>
+    <string name="delete_song_msg">Вы хотите, чтобы удалить эту музыку из списка?</string>
+
+    <!-- Share -->
+    <string name="share_to">Поделитесь этим приложением к ...</string>
+    <string name="share_link">Потрясающая музыка приложение для семьи я использую, рекомендую вам:<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 минут</item>
+        <item>30 минут</item>
+        <item>45 минут</item>
+        <item>1 час</item>
+        <item>2 час</item>
+        <item>3 час</item>
+        <item>навсегда</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>Играть все</item>
+        <item>Играть Одноместные</item>
+    </string-array>
+    <string name="add_cover">Добавить фотографию для обложки: </string>
+    <string name="add_more">Добавить больше </string>
+    <string name="choose_photo">Выбрать фото </string>
+    <string name="empty_list">Список Музыка пуст , пожалуйста, добавить свою музыку . </string>
+    <string name="input_name">Введите имя : </string>
+    <string name="invalidate_photo">Пожалуйста, добавьте фото </string>
+    <string name="invalidate_text">Пожалуйста, введите имя </string>
+    <string name="album_edit">редактировать</string>
+    <string name="album_delete">Удалить</string>
+    <string name="all_music">Вся музыка</string>
+
+</resources>

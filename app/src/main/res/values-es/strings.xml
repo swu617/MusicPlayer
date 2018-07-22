@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Desconectado reproductor de música</string>
+
+    <string name="fetal">Música fetal</string>
+    <string name="baby">Música para bebés</string>
+    <string name="kids">Música niños</string>
+
+    <string name="loop_indicator">Lazo</string>
+
+
+    <!-- media -->
+    <string name="media_not_available">navegación por los medios de comunicación no está disponible en este dispositivo.</string>
+    <string name="choose_music">Seleccione Música</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">Borrar</string>
+    <string name="delete_song_msg">¿Quieres eliminar esta música de la lista?</string>
+
+    <!-- Share -->
+    <string name="share_to">Compartir esta aplicación para ...</string>
+    <string name="share_link">Una aplicación de música impresionante para la familia que estoy usando, recomendar a usted:<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 minuto</item>
+        <item>30 minuto</item>
+        <item>45 minuto</item>
+        <item>1 hora</item>
+        <item>2 hora</item>
+        <item>3 hora</item>
+        <item>Forever</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>Jugar todo</item>
+        <item>Juega individual</item>
+    </string-array>
+    <string name="add_cover">Añadir una foto para la cubierta : </string>
+    <string name="add_more">Añadir más </string>
+    <string name="choose_photo">Elige las fotos </string>
+    <string name="empty_list">Lista de música está vacía , por favor agregue su música. </string>
+    <string name="input_name">Introduzca un nombre de : </string>
+    <string name="invalidate_photo">Por favor, añada una foto </string>
+    <string name="invalidate_text">Por favor introduce el nombre </string>
+    <string name="album_edit">Editar</string>
+    <string name="album_delete">Borrar</string>
+    <string name="all_music">Toda la música</string>
+
+</resources>

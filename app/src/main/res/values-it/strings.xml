@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Offline Music Player</string>
+
+    <string name="fetal">Musica fetale</string>
+    <string name="baby">Bambino Musica</string>
+    <string name="kids">Bambini Musica</string>
+
+    <string name="loop_indicator">Ciclo continuo</string>
+
+
+    <!-- media -->
+    <string name="media_not_available">navigazione Il supporto non è disponibile su questo dispositivo.</string>
+    <string name="choose_music">Scegli Musica</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">cancellare</string>
+    <string name="delete_song_msg">Vuoi eliminare questa musica dalla lista?</string>
+
+    <!-- Share -->
+    <string name="share_to">Condividi questa applicazione per ...</string>
+    <string name="share_link">Un app musica impressionante per la famiglia che sto usando, raccomando a voi::<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 minuto</item>
+        <item>30 minuto</item>
+        <item>45 minuto</item>
+        <item>1 ora</item>
+        <item>2 ora</item>
+        <item>3 ora</item>
+        <item>Per sempre</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>Giocare tutto</item>
+        <item>Gioca singolo</item>
+    </string-array>
+    <string name="add_cover">Aggiungere una foto per la copertina : </string>
+    <string name="add_more">Aggiungere altro </string>
+    <string name="choose_photo">Scegli la foto </string>
+    <string name="empty_list">lista musica è vuota , si prega di aggiungere la tua musica . </string>
+    <string name="input_name">Inserire un nome : </string>
+    <string name="invalidate_photo">Si prega di aggiungere una foto </string>
+    <string name="invalidate_text">Si prega di inserire il nome </string>
+    <string name="album_edit">Modifica</string>
+    <string name="album_delete">cancellare</string>
+    <string name="all_music">Tutta la musica</string>
+
+</resources>

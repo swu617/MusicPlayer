@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Offline Music Player</string>
+
+    <string name="all_music">All Music</string>
+    <string name="fetal">Fetal Music</string>
+    <string name="baby">Baby Music</string>
+    <string name="kids">Kids Music</string>
+    <string name="add_more">Add More</string>
+
+    <string name="loop_indicator">Loop</string>
+
+    <string name="banner_ad_unit_id_music_list" translatable="false">ca-app-pub-2125151487454734/1403823201</string>
+
+    <!-- media -->
+    <string name="media_not_available">Media browsing is not available on this device.</string>
+    <string name="choose_music">Choose Music</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">Delete</string>
+    <string name="delete_song_msg">Do you want to delete this music from list?</string>
+
+    <!-- Share -->
+    <string name="share_to">Share this app to ...</string>
+    <string name="share_link">An awesome music app I\'m using, recommend to you:<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 Mins</item>
+        <item>30 Mins</item>
+        <item>45 Mins</item>
+        <item>1 Hrs</item>
+        <item>2 Hrs</item>
+        <item>3 Hrs</item>
+        <item>Forever</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>Play All</item>
+        <item>Play Single</item>
+    </string-array>
+
+    <!--Add Album -->
+    <string name="input_name">Input a name:</string>
+    <string name="add_cover">Add a photo for cover:</string>
+    <string name="invalidate_text">Please input the name</string>
+    <string name="invalidate_photo">Please add a photo</string>
+    <string name="choose_photo">Choose Photo</string>
+    <string name="empty_list">Music list is empty, please add your music.</string>
+
+    <string name="album_delete">Delete</string>
+    <string name="album_edit">Edit</string>
+
+</resources>

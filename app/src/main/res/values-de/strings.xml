@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="fetal">Fetal Musik</string>
+    <string name="baby">Baby-Musik</string>
+    <string name="kids">Kinder Musik</string>
+
+    <string name="loop_indicator">Schleife</string>
+
+
+    <!-- media -->
+    <string name="media_not_available">Medien-Browsing ist auf diesem Gerät nicht verfügbar.</string>
+    <string name="choose_music">wählen Sie Musik</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">Löschen</string>
+    <string name="delete_song_msg">Wollen Sie diese Musik aus der Liste zu löschen?</string>
+
+    <!-- Share -->
+    <string name="share_to">Teilen Sie diese App ...</string>
+    <string name="share_link">Eine fantastische Musik-App für Familie Ich verwende, die Sie interessieren:<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 Minute</item>
+        <item>30 Minute</item>
+        <item>45 Minute</item>
+        <item>1 Stunde</item>
+        <item>2 Stunde</item>
+        <item>3 Stunde</item>
+        <item>für immer</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>Alles abspielen</item>
+        <item>Spielen Einzel</item>
+    </string-array>
+    <string name="add_cover">Fügen Sie ein Foto für Cover: </string>
+    <string name="add_more">hinzufügen</string>
+    <string name="choose_photo">Wähle ein Foto aus </string>
+    <string name="empty_list">Musikliste ist leer , fügen Sie bitte Ihre Musik. </string>
+    <string name="input_name">Geben Sie einen Namen : </string>
+    <string name="invalidate_photo">Bitte fügen Sie ein Foto </string>
+    <string name="invalidate_text">Bitte geben Sie den Namen </string>
+    <string name="album_edit">Bearbeiten</string>
+    <string name="album_delete">Löschen</string>
+    <string name="all_music">Jede Musik</string>
+    <string name="app_name">Offline Musik-Player</string>
+
+</resources>

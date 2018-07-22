@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">オフライン音楽プレーヤー</string>
+
+    <string name="fetal">胎児の音楽</string>
+    <string name="baby">ベビーミュージック</string>
+    <string name="kids">キッズミュージック</string>
+
+    <string name="loop_indicator">ループ</string>
+
+
+    <!-- media -->
+    <string name="media_not_available">メディアブラウジングは、このデバイスでは利用できません。</string>
+    <string name="choose_music">音楽を選択してください</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">削除</string>
+    <string name="delete_song_msg">あなたは、リストからこの曲を削除しますか？</string>
+
+    <!-- Share -->
+    <string name="share_to">このアプリへの共有...</string>
+    <string name="share_link">私が使用して家族のために素晴らしい音楽アプリ、あなたにお勧めします:<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 分</item>
+        <item>30 分</item>
+        <item>45 分</item>
+        <item>1 時間</item>
+        <item>2 時間</item>
+        <item>3 時間</item>
+        <item>フォーエバー</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>全部やる</item>
+        <item>単一サイクル</item>
+    </string-array>
+    <string name="add_cover">表紙用の写真を追加します。 </string>
+    <string name="add_more">さらに追加 </string>
+    <string name="choose_photo">写真を選択してください </string>
+    <string name="empty_list">音楽リストが空である、あなたの音楽を追加してください。 </string>
+    <string name="input_name">入力名： </string>
+    <string name="invalidate_photo">写真を追加してください </string>
+    <string name="invalidate_text">入力に名前を喜ば </string>
+    <string name="album_edit">編集</string>
+    <string name="album_delete">削除</string>
+    <string name="all_music">すべての音楽</string>
+
+</resources>

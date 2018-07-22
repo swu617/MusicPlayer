@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Офлайн Music Player</string>
+
+    <string name="fetal">Фетална Музика</string>
+    <string name="baby">бебе Музика</string>
+    <string name="kids">Детски Музика</string>
+
+    <string name="loop_indicator">контур</string>
+
+    <!-- media -->
+    <string name="media_not_available">сърфиране Media не е на разположение на това устройство.</string>
+    <string name="choose_music">Изберете Музика</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">изтривам</string>
+    <string name="delete_song_msg">Смятате ли, че искате да изтриете тази музика от списъка?</string>
+
+    <!-- Share -->
+    <string name="share_to">Rhannwch app hwn i ...</string>
+    <string name="share_link">Една страхотна музика ап за семейство Аз съм с, препоръчваме ви:<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 минута</item>
+        <item>30 минута</item>
+        <item>45 минута</item>
+        <item>1 час</item>
+        <item>2 час</item>
+        <item>3 час</item>
+        <item>завинаги</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>Play All</item>
+        <item>Играйте Single</item>
+    </string-array>
+    <string name="add_cover">Добавяне на снимка за корицата : </string>
+    <string name="add_more">Добави още</string>
+    <string name="choose_photo">Изберете снимка</string>
+    <string name="empty_list">списък Music е празна , моля Ви добавете вашата музика .</string>
+    <string name="input_name">Input име : </string>
+    <string name="invalidate_photo">Моля, добавете снимка </string>
+    <string name="invalidate_text">Моля, въведете името </string>
+    <string name="album_edit">редактиране</string>
+    <string name="album_delete">изтривам</string>
+    <string name="all_music">All Music</string>
+
+</resources>

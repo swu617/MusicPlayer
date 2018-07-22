@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="edit_delete">
+        <item>@string/album_edit</item>
+        <item>@string/album_delete</item>
+    </string-array>
+</resources>

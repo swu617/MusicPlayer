@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:ads="http://schemas.android.com/apk/res-auto"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/pefect"
+                android:orientation="vertical">
+
+    <include layout="@layout/appbar"/>
+
+    <RelativeLayout
+        android:id="@+id/setting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/appbar"
+        android:layout_marginBottom="10dp">
+
+        <Spinner
+            android:id="@+id/spinner_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:paddingTop="10dp"/>
+
+        <Spinner
+            android:id="@+id/spinner_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:paddingTop="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:paddingTop="10dp"
+            android:layout_toLeftOf="@id/spinner_time"
+            android:layout_toStartOf="@id/spinner_time"
+            android:text="@string/loop_indicator"
+            android:textColor="@android:color/white"
+            android:textSize="21sp"/>
+    </RelativeLayout>
+
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:visibility="invisible"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id_music_list">
+    </com.google.android.gms.ads.AdView>
+
+    <Button
+        android:id="@+id/action"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_above="@id/adView"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_continue"/>
+
+
+    <TextView
+        android:id="@+id/no_media"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_above="@id/action"
+        android:layout_below="@id/setting"
+        android:gravity="center"
+        android:text="@string/empty_list"
+        android:textColor="@color/textColor"
+        android:textAppearance="?android:attr/textAppearanceLarge"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/action"
+        android:layout_below="@id/setting"
+        android:scrollbars="vertical"/>
+
+</RelativeLayout>

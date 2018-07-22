@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Offline Music Player</string>
+
+    <string name="fetal">Musique foetale</string>
+    <string name="baby">Baby Music</string>
+    <string name="kids">Kids Music</string>
+
+    <string name="loop_indicator">Boucle</string>
+
+
+    <!-- media -->
+    <string name="media_not_available">la navigation des médias ne sont pas disponibles sur cet appareil.</string>
+    <string name="choose_music">Choisissez Musique</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">Effacer</string>
+    <string name="delete_song_msg">Voulez-vous supprimer cette musique de la liste?</string>
+
+    <!-- Share -->
+    <string name="share_to">Partager cette application pour ...</string>
+    <string name="share_link">Sebuah musik aplikasi mengagumkan untuk keluarga saya menggunakan, merekomendasikan kepada Anda:<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 minute</item>
+        <item>30 minute</item>
+        <item>45 minute</item>
+        <item>1 heure</item>
+        <item>2 heure</item>
+        <item>3 heure</item>
+        <item>Pour toujours</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>Jouer à tous</item>
+        <item>Jouer simple</item>
+    </string-array>
+    <string name="add_cover">Ajouter une photo pour la couverture : </string>
+    <string name="add_more">Ajouter plus </string>
+    <string name="choose_photo">Choisissez photo </string>
+    <string name="empty_list">Liste de musique est vide , s\'il vous plaît ajouter votre musique . </string>
+    <string name="input_name">Saisissez un nom : </string>
+    <string name="invalidate_photo">S\'il vous plaît ajouter une photo </string>
+    <string name="invalidate_text">Veuillez saisir le nom </string>
+    <string name="album_edit">modifier</string>
+    <string name="album_delete">Effacer</string>
+    <string name="all_music">Toute la musique</string>
+
+</resources>

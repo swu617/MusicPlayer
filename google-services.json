@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "175150047749",
+    "firebase_url": "https://admob-app-id-8927090001.firebaseio.com",
+    "project_id": "admob-app-id-8927090001",
+    "storage_bucket": "admob-app-id-8927090001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175150047749:android:95cd486e2f5a43f0",
+        "android_client_info": {
+          "package_name": "com.sam.music.player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175150047749-6c905mm600ffsvdc6ckes6odt5phie6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKfugsLJjnqnJJ4Jb3aUfQjdhU3sd_54o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

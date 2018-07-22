@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ऑफलाइन संगीत प्लेयर</string>
+
+    <string name="fetal">भ्रूण संगीत</string>
+    <string name="baby">बेबी संगीत</string>
+    <string name="kids">बच्चे संगीत</string>
+
+    <string name="loop_indicator">लूप</string>
+
+
+    <!-- media -->
+    <string name="media_not_available">मीडिया ब्राउज़िंग इस डिवाइस पर उपलब्ध नहीं है।</string>
+    <string name="choose_music">संगीत का चयन</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">मिटाना</string>
+    <string name="delete_song_msg">आप सूची से इस संगीत को नष्ट करना चाहते हैं?</string>
+
+    <!-- Share -->
+    <string name="share_to">इस एप्लिकेशन को साझा करें ...</string>
+    <string name="share_link">परिवार मैं उपयोग कर रहा हूँ के लिए एक भयानक संगीत अनुप्रयोग, आप की सिफारिश:<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 मिनट</item>
+        <item>30 मिनट</item>
+        <item>45 मिनट</item>
+        <item>1 समय</item>
+        <item>2 समय</item>
+        <item>3 समय</item>
+        <item>सदैव</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>सभी खेल</item>
+        <item>खेलने के लिए एकल</item>
+    </string-array>
+    <string name="add_cover">कवर करने के लिए एक तस्वीर जोड़ें: </string>
+    <string name="add_more">अधिक जोड़ें </string>
+    <string name="choose_photo">तस्विर का चयन करो </string>
+    <string name="empty_list">संगीत सूची खाली है , कृपया अपने संगीत जोड़ें। </string>
+    <string name="input_name">इनपुट एक का नाम: </string>
+    <string name="invalidate_photo">एक तस्वीर जोड़ें </string>
+    <string name="invalidate_text">इनपुट नाम कृपया </string>
+    <string name="album_edit">संपादित करें </string>
+    <string name="album_delete">मिटाना</string>
+    <string name="all_music">पूरा संगीत</string>
+
+</resources>

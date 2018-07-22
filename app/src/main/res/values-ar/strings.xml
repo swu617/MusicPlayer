@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حاليا مشغل موسيقى</string>
+
+    <string name="fetal">الموسيقى الجنين </string>
+    <string name="baby">موسيقى الطفل </string>
+    <string name="kids">أطفال موسيقى </string>
+
+    <string name="loop_indicator">حلقة غيرمنتهية </string>
+
+
+    <!-- media -->
+    <string name="media_not_available">تصفح وسائل الإعلام غير متوفر على هذا الجهاز . </string>
+    <string name="choose_music">اختيار الموسيقى </string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">حذف</string>
+    <string name="delete_song_msg">هل تريد حذف هذه الموسيقى من القائمة؟ </string>
+
+    <!-- Share -->
+    <string name="share_to">مشاركة هذا التطبيق إلى ... </string>
+    <string name="share_link">وقال كبير تطبيقات الموسيقى الأسرة ، فمن المستحسن لك : <u>https://play.google.com/store/apps/details؟id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 دقيقة</item>
+        <item>30 دقيقة</item>
+        <item>45 دقيقة</item>
+        <item>1 ساعة</item>
+        <item>2 ساعة</item>
+        <item>3 ساعة</item>
+        <item>إلى الأبد</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>تلعب جميع</item>
+        <item>لعب واحدة</item>
+    </string-array>
+    <string name="add_cover">أضف صورة ل غلاف :</string>
+    <string name="add_more">أضف المزيد</string>
+    <string name="choose_photo">اختيار صور</string>
+    <string name="empty_list">قائمة الموسيقى فارغة ، يرجى إضافة الموسيقى الخاصة بك.</string>
+    <string name="input_name">إدخال اسم : </string>
+    <string name="invalidate_photo">يرجى إضافة صورة </string>
+    <string name="invalidate_text">الرجاء إدخال اسم</string>
+    <string name="album_edit">تحرير</string>
+    <string name="album_delete">حذف </string>
+    <string name="all_music">الموسيقى الجنين</string>
+
+</resources>

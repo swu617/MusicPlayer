@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Off-line Music Player</string>
+
+    <string name="fetal">Âm nhạc của thai nhi</string>
+    <string name="baby">bé nhạc</string>
+    <string name="kids">Kids Âm nhạc</string>
+
+    <string name="loop_indicator">vòng</string>
+
+    <!-- media -->
+    <string name="media_not_available">duyệt phương tiện truyền thông không có sẵn trên thiết bị này.</string>
+    <string name="choose_music">Chọn nhạc</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">Xóa bỏ</string>
+    <string name="delete_song_msg">Bạn có muốn xóa nhạc này khỏi danh sách?</string>
+
+    <!-- Share -->
+    <string name="share_to">Chia sẻ ứng dụng này để ...</string>
+    <string name="share_link">Một ứng dụng âm nhạc tuyệt vời cho gia đình tôi đang sử dụng, giới thiệu cho bạn:<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 phút</item>
+        <item>30 phút</item>
+        <item>45 phút</item>
+        <item>1 giờ</item>
+        <item>2 giờ</item>
+        <item>3 giờ</item>
+        <item>Mãi mãi</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>Chơi tất cả</item>
+        <item>chơi Độc thân</item>
+    </string-array>
+    <string name="add_cover">Thêm ảnh cho trang bìa : </string>
+    <string name="add_more">Bổ sung thêm </string>
+    <string name="choose_photo">Chọn hình </string>
+    <string name="empty_list">danh sách âm nhạc trống , xin vui lòng thêm âm nhạc của bạn . </string>
+    <string name="input_name">Nhập tên : </string>
+    <string name="invalidate_photo">Vui lòng thêm một bức ảnh </string>
+    <string name="invalidate_text">Vui lòng nhập tên </string>
+    <string name="album_edit">Chỉnh sửa </string>
+    <string name="album_delete">Xóa bỏ </string>
+    <string name="all_music">Tất cả âm nhạc</string>
+
+</resources>

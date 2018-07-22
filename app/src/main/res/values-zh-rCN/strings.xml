@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">离线音乐播放器</string>
+
+    <string name="fetal">胎教音乐</string>
+    <string name="baby">宝宝音乐</string>
+    <string name="kids">儿童歌曲</string>
+
+    <string name="loop_indicator">循环</string>
+
+
+    <!-- media -->
+    <string name="media_not_available">无法在此设备上浏览多媒体.</string>
+    <string name="choose_music">选择音乐</string>
+
+    <!-- Delete -->
+    <string name="delete_song_title">删除</string>
+    <string name="delete_song_msg">是否想从列表中删除此音乐?</string>
+
+    <!-- Share -->
+    <string name="share_to">分享此应用到 ...</string>
+    <string name="share_link">一个很棒的家庭音乐应用,推荐给你:<u>https://play.google.com/store/apps/details?id=com.sam.music.player</u></string>
+
+    <string-array name="time_list">
+        <item>15 分钟</item>
+        <item>30 分钟</item>
+        <item>45 分钟</item>
+        <item>1 小时</item>
+        <item>2 小时</item>
+        <item>3 小时</item>
+        <item>永久</item>
+    </string-array>
+
+    <string-array name="play_mode">
+        <item>播放所有</item>
+        <item>单曲循环</item>
+    </string-array>
+    <string name="add_cover">添加封面照片:</string>
+    <string name="add_more">添加更多 </string>
+    <string name="choose_photo">选择照片 </string>
+    <string name="empty_list">音乐列表是空的，请添加你的音乐。 </string>
+    <string name="input_name">输入一个名字： </string>
+    <string name="invalidate_photo">请添加照片 </string>
+    <string name="invalidate_text">请输入名字 </string>
+
+    <string name="album_delete">删除</string>
+    <string name="album_edit">编辑</string>
+    <string name="all_music">所有音乐</string>
+
+</resources>
